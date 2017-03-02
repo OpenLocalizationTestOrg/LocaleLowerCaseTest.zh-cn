@@ -1,0 +1,46 @@
+{
+  "LastProcessedCommit": "43005fad50282e1d7eb2b234e05d7f949ed92bcf",
+  "LastTranslatedCommit": null,
+  "LastTansformerVersion": null,
+  "LastConfigHash": "47c4c0fc71356c9c241e8a6a371e2fc874c139b7",
+  "Items": {
+    "7001907bc5caf0f276805ecbd626792702c563ea": {
+      "FileHash": "7001907bc5caf0f276805ecbd626792702c563ea",
+      "SourceFileCommit": "43005fad50282e1d7eb2b234e05d7f949ed92bcf",
+      "SourceFilePath": "test\\LocaleLowerCaseTest.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "test\\LocaleLowerCaseTest.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf",
+      "HandoffFileCommit": "35ec5917be35e770ef2ec4436d03797a5ad1f760",
+      "HandoffDateTime": "2017-03-02T09:18:44.9218616Z",
+      "HandoffXliffHash": "de3a4e1f6e077b73836bba54f4f63b14c2c8a751",
+      "HandoffName": null,
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackName": null,
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    }
+  }
+}

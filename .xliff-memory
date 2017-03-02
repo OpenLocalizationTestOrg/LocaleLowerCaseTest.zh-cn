@@ -1,0 +1,14 @@
+{
+  "Table": {
+    "test\\LocaleLowerCaseTest.md.de3a4e1f6e077b73836bba54f4f63b14c2c8a751.HT": {
+      "SourceFilename": "test\\LocaleLowerCaseTest.md",
+      "XliffHash": "de3a4e1f6e077b73836bba54f4f63b14c2c8a751",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\7001907bc5caf0f276805ecbd626792702c563ea.5087507eacbc51db00afbd2146b2ff15e22ea747.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
+}
