@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md) | InSyncHandedBackSuccess | [Details](#7001907bc5caf0f276805ecbd626792702c563ea1)
 
 ## Item Details
+##### <a name='7001907bc5caf0f276805ecbd626792702c563ea1'></a> Source: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/blob/1ab97183feae22d355ac3c2947ddb7018e4e386c/test/LocaleLowerCaseTest.md)
+* Handoff File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/35ec5917be35e770ef2ec4436d03797a5ad1f760/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Handoff Datetime: 2017-03-02 09:18:44
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/eac67951f751a9a8875083b05da5898b7a374ac9/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Archive Datetime: 2017-03-03 02:24:24
+* Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/2c59894d20c636583c17b64e9a00418f696a67f9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Handback Datetime: 2017-03-03 02:34:41
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
