@@ -11,18 +11,19 @@
 ## Item Details
 ##### <a name='7001907bc5caf0f276805ecbd626792702c563ea1'></a> Source: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/blob/1ab97183feae22d355ac3c2947ddb7018e4e386c/test/LocaleLowerCaseTest.md)
+* Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/blob/f5206466b16566dda3a3753e21e9c153b8b7c244/test/LocaleLowerCaseTest.md)
 * Handoff File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/35ec5917be35e770ef2ec4436d03797a5ad1f760/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
 * Handoff Datetime: 2017-03-02 09:18:44
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/eac67951f751a9a8875083b05da5898b7a374ac9/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
 * Archive Datetime: 2017-03-03 02:24:24
-* Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/2c59894d20c636583c17b64e9a00418f696a67f9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
-* Handback Datetime: 2017-03-03 02:34:41
+* Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/156729724e49b3296e28ffeff1e248cee2ad3db9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Handback Datetime: 2017-03-03 02:45:12
 * Handback Name: 
 * Bilingual File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/2c59894d20c636583c17b64e9a00418f696a67f9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
-* Bilingual Datetime: 2017-03-03 02:35:02
+* Bilingual Datetime: 2017-03-03 02:45:34
+* Bilingual Error:[bilingual_uploading_failed](#7001907bc5caf0f276805ecbd626792702c563ea1bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
 
