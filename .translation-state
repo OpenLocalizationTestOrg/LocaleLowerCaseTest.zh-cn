@@ -2,7 +2,7 @@
   "LastProcessedCommit": "43005fad50282e1d7eb2b234e05d7f949ed92bcf",
   "LastTranslatedCommit": "f5206466b16566dda3a3753e21e9c153b8b7c244",
   "LastTansformerVersion": null,
-  "LastConfigHash": "47c4c0fc71356c9c241e8a6a371e2fc874c139b7",
+  "LastConfigHash": "0ff94796d79fbec2a5c679e407ad615f5deabda5",
   "Items": {
     "7001907bc5caf0f276805ecbd626792702c563ea": {
       "FileHash": "7001907bc5caf0f276805ecbd626792702c563ea",
@@ -39,6 +39,8 @@
       "ArchiveException": null,
       "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf",
       "BilingualFileCommit": "2c59894d20c636583c17b64e9a00418f696a67f9",
+      "BilingualTargetFilePath": null,
+      "BilingualTargetFileCommit": null,
       "BilingualDateTime": "2017-03-03T02:45:34.1624499Z",
       "BilingualException": {
         "internal_error_code": "bilingual_uploading_failed",
