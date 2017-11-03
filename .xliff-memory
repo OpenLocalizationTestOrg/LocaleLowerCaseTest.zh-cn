@@ -14,6 +14,8 @@
       "SourceFilename": "test\\Test`1.md",
       "XliffHash": "aae12bda86d66a9eaf88f5318213855f3d1fa9d7",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-03T04:47:27.4258237Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\6920c3866aa9379c2624e8c2f4ab61945b2b2881.57c227255bf6ae9253c2db7ad33200d30d1d235e.xml"
     }
   }
