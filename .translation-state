@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "43005fad50282e1d7eb2b234e05d7f949ed92bcf",
+  "LastProcessedCommit": "8cd205b1e1ce0b94ef1c0cd44e6433d4c58f7be2",
   "LastTranslatedCommit": "f5206466b16566dda3a3753e21e9c153b8b7c244",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -38,6 +38,21 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass35_0.<UploadBilingualFiles>b__0(Tuple`3 fileToBeUpload) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 493",
         "extended_information": null
       }
+    },
+    "6920c3866aa9379c2624e8c2f4ab61945b2b2881": {
+      "FileHash": "6920c3866aa9379c2624e8c2f4ab61945b2b2881",
+      "SourceFileCommit": "8cd205b1e1ce0b94ef1c0cd44e6433d4c58f7be2",
+      "SourceFilePath": "test\\Test`1.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Test`1.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
+      "HandoffFileCommit": "c652089c2d26f044f7f98e1809f46899af062e89",
+      "HandoffDateTime": "2017-11-03T03:07:02.4930579Z",
+      "HandoffXliffHash": "aae12bda86d66a9eaf88f5318213855f3d1fa9d7",
+      "HandoffPriority": ""
     }
   }
 }

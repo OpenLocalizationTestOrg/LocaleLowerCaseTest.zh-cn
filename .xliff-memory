@@ -9,6 +9,12 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\7001907bc5caf0f276805ecbd626792702c563ea.5087507eacbc51db00afbd2146b2ff15e22ea747.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf",
       "LocXliffCommit": "156729724e49b3296e28ffeff1e248cee2ad3db9"
+    },
+    "test\\Test`1.md.aae12bda86d66a9eaf88f5318213855f3d1fa9d7.HT": {
+      "SourceFilename": "test\\Test`1.md",
+      "XliffHash": "aae12bda86d66a9eaf88f5318213855f3d1fa9d7",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\6920c3866aa9379c2624e8c2f4ab61945b2b2881.57c227255bf6ae9253c2db7ad33200d30d1d235e.xml"
     }
   }
 }
