@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "636b955fcfef42d6e3772ceeaebb8f77cea36563",
+  "LastProcessedCommit": "3062631758e8ea95b31f723cd272caae6ff8b172",
   "LastTranslatedCommit": "f5206466b16566dda3a3753e21e9c153b8b7c244",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -57,6 +57,36 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
       "ArchiveFileCommit": "d7442bb383aa7781472121ec509dbc581da544be",
       "ArchiveFileDateTime": "2017-11-03T04:47:27.4258237Z"
+    },
+    "03eb8201e129391de134ee0d68a8c5c358ba7754": {
+      "FileHash": "03eb8201e129391de134ee0d68a8c5c358ba7754",
+      "SourceFileCommit": "3062631758e8ea95b31f723cd272caae6ff8b172",
+      "SourceFilePath": "test\\Test`1.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Test`1.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
+      "HandoffFileCommit": "7c1f597dc207e785a1553ad055be2138a511df68",
+      "HandoffDateTime": "2017-11-04T15:12:57.8321346Z",
+      "HandoffXliffHash": "000ab27ce27047f1c6442319d8f89dc76359d499",
+      "HandoffPriority": ""
+    },
+    "6931ee99a82b8c1a48bd8ce05f038ba5de11a964": {
+      "FileHash": "6931ee99a82b8c1a48bd8ce05f038ba5de11a964",
+      "SourceFileCommit": "3062631758e8ea95b31f723cd272caae6ff8b172",
+      "SourceFilePath": "test\\Test`2.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Test`2.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf",
+      "HandoffFileCommit": "7c1f597dc207e785a1553ad055be2138a511df68",
+      "HandoffDateTime": "2017-11-04T15:12:57.8321346Z",
+      "HandoffXliffHash": "d7b130d33e7ff4c4f45855a786861e26a5fd4a82",
+      "HandoffPriority": ""
     }
   }
 }

@@ -17,6 +17,18 @@
       "IsArchived": true,
       "ArchivedDateTime": "2017-11-03T04:47:27.4258237Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\6920c3866aa9379c2624e8c2f4ab61945b2b2881.57c227255bf6ae9253c2db7ad33200d30d1d235e.xml"
+    },
+    "test\\Test`2.md.d7b130d33e7ff4c4f45855a786861e26a5fd4a82.HT": {
+      "SourceFilename": "test\\Test`2.md",
+      "XliffHash": "d7b130d33e7ff4c4f45855a786861e26a5fd4a82",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\6931ee99a82b8c1a48bd8ce05f038ba5de11a964.f7072732cc37ffb82f1b893f4e546d947bc98e8f.xml"
+    },
+    "test\\Test`1.md.000ab27ce27047f1c6442319d8f89dc76359d499.HT": {
+      "SourceFilename": "test\\Test`1.md",
+      "XliffHash": "000ab27ce27047f1c6442319d8f89dc76359d499",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\03eb8201e129391de134ee0d68a8c5c358ba7754.3ca83d9b4484d15057bd513550d6505f877d1623.xml"
     }
   }
 }

@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%601.md) | HandedOffSuccess | [Details](#03eb8201e129391de134ee0d68a8c5c358ba77542)
+ [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md) | HandedOffSuccess | [Details](#6931ee99a82b8c1a48bd8ce05f038ba5de11a9643)
 
 ## Item Details
+##### <a name='03eb8201e129391de134ee0d68a8c5c358ba77542'></a> Source: [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%601.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/7c1f597dc207e785a1553ad055be2138a511df68/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf)
+* Handoff Datetime: 2017-11-04 15:12:57
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6931ee99a82b8c1a48bd8ce05f038ba5de11a9643'></a> Source: [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/7c1f597dc207e785a1553ad055be2138a511df68/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Test%602.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf)
+* Handoff Datetime: 2017-11-04 15:12:57
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
