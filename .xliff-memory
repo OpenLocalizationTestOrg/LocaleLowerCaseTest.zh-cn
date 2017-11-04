@@ -22,6 +22,8 @@
       "SourceFilename": "test\\Test`2.md",
       "XliffHash": "d7b130d33e7ff4c4f45855a786861e26a5fd4a82",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-04T16:13:33.5671806Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\6931ee99a82b8c1a48bd8ce05f038ba5de11a964.f7072732cc37ffb82f1b893f4e546d947bc98e8f.xml"
     },
     "test\\Test`1.md.000ab27ce27047f1c6442319d8f89dc76359d499.HT": {
@@ -34,6 +36,8 @@
       "SourceFilename": "test\\Test`1.md",
       "XliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-04T16:13:33.5671806Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml"
     }
   }

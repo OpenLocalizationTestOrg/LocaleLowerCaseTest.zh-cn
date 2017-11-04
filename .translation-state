@@ -86,7 +86,11 @@
       "HandoffFileCommit": "7c1f597dc207e785a1553ad055be2138a511df68",
       "HandoffDateTime": "2017-11-04T15:12:57.8321346Z",
       "HandoffXliffHash": "d7b130d33e7ff4c4f45855a786861e26a5fd4a82",
-      "HandoffPriority": ""
+      "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171104T090037",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf",
+      "ArchiveFileCommit": "948505154715e55ba66b8f5af5ba893d0161ce88",
+      "ArchiveFileDateTime": "2017-11-04T16:13:33.5671806Z"
     },
     "ac4b78a288421be8dc454b4e866298b0957713a0": {
       "FileHash": "ac4b78a288421be8dc454b4e866298b0957713a0",
@@ -101,7 +105,11 @@
       "HandoffFileCommit": "c6628e589a118d7f62f6ba72acc8dd9c9adb82e3",
       "HandoffDateTime": "2017-11-04T16:03:20.9521922Z",
       "HandoffXliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
-      "HandoffPriority": ""
+      "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171104T090037",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
+      "ArchiveFileCommit": "948505154715e55ba66b8f5af5ba893d0161ce88",
+      "ArchiveFileDateTime": "2017-11-04T16:13:33.5671806Z"
     }
   }
 }
