@@ -29,6 +29,12 @@
       "XliffHash": "000ab27ce27047f1c6442319d8f89dc76359d499",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\03eb8201e129391de134ee0d68a8c5c358ba7754.3ca83d9b4484d15057bd513550d6505f877d1623.xml"
+    },
+    "test\\Test`1.md.59f8024676415ba351870fd0c695b8fb86062c8a.HT": {
+      "SourceFilename": "test\\Test`1.md",
+      "XliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml"
     }
   }
 }
