@@ -38,7 +38,9 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-11-04T16:13:33.5671806Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test1\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
+      "LocXliffCommit": "f872e9210e7bd99423cb6a7fafe4f8fe1e2cd58f"
     }
   }
 }
