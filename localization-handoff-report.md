@@ -1,11 +1,61 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 3
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md) | HandedOffSuccess | [Details](#7001907bc5caf0f276805ecbd626792702c563ea1)
+ [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/a3b77224029d1ef0183871836f623c67f4c87e7d/test/Test%601.md) | HandedOffSuccess | [Details](#ac4b78a288421be8dc454b4e866298b0957713a02)
+ [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md) | HandedOffSuccess | [Details](#6931ee99a82b8c1a48bd8ce05f038ba5de11a9643)
 
 ## Item Details
+##### <a name='7001907bc5caf0f276805ecbd626792702c563ea1'></a> Source: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md)
+* Status: HandedOffSuccess
+* Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/blob/f5206466b16566dda3a3753e21e9c153b8b7c244/test/LocaleLowerCaseTest.md)
+* Handoff File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/6ba222858f172a3c775b6521db0377e8d619823e/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Handoff Datetime: 2017-11-06 02:56:33
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/156729724e49b3296e28ffeff1e248cee2ad3db9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Handback Datetime: 2017-03-03 02:45:12
+* Handback Name: 
+* Bilingual File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/2c59894d20c636583c17b64e9a00418f696a67f9/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf)
+* Bilingual Datetime: 2017-03-03 02:45:34
+* Bilingual Error:[bilingual_uploading_failed](#7001907bc5caf0f276805ecbd626792702c563ea1bilingual_uploading_failed)
+* [Back to Top](#report-top)
+
+##### <a name='ac4b78a288421be8dc454b4e866298b0957713a02'></a> Source: [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/a3b77224029d1ef0183871836f623c67f4c87e7d/test/Test%601.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/6ba222858f172a3c775b6521db0377e8d619823e/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf)
+* Handoff Datetime: 2017-11-06 02:56:33
+* Handoff Reason: Include
+* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171104T090037
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6931ee99a82b8c1a48bd8ce05f038ba5de11a9643'></a> Source: [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/6ba222858f172a3c775b6521db0377e8d619823e/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Test%602.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf)
+* Handoff Datetime: 2017-11-06 02:56:33
+* Handoff Reason: Include
+* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171104T090037
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
