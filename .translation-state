@@ -1,7 +1,7 @@
 {
   "LastProcessedCommit": "f0e80262666a8fc7d947d860e5d24ec4146e3eeb",
   "LastTranslatedCommit": "e7a61180bc6a4747fcf8ddfb33ff077862a069c1",
-  "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
+  "LastConfigHash": "a5dc03745f3b7707f8f27c7aee4a5a5148a3f1cc",
   "Items": {
     "7001907bc5caf0f276805ecbd626792702c563ea": {
       "FileHash": "7001907bc5caf0f276805ecbd626792702c563ea",
@@ -13,8 +13,8 @@
       ],
       "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf",
-      "HandoffFileCommit": "17a18c9136b12a28076714bd3ebd9a66b88ad710",
-      "HandoffDateTime": "2017-11-06T03:16:53.6125645Z",
+      "HandoffFileCommit": "1d06e0f81f336256a2c15e5f114251e0f8b4c112",
+      "HandoffDateTime": "2017-11-06T04:58:52.3657661Z",
       "HandoffXliffHash": "de3a4e1f6e077b73836bba54f4f63b14c2c8a751",
       "HandoffPriority": "",
       "TargetFileCommit": "f5206466b16566dda3a3753e21e9c153b8b7c244",
@@ -80,8 +80,8 @@
       ],
       "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf",
-      "HandoffFileCommit": "17a18c9136b12a28076714bd3ebd9a66b88ad710",
-      "HandoffDateTime": "2017-11-06T03:16:53.6125645Z",
+      "HandoffFileCommit": "1d06e0f81f336256a2c15e5f114251e0f8b4c112",
+      "HandoffDateTime": "2017-11-06T04:58:52.3657661Z",
       "HandoffXliffHash": "d7b130d33e7ff4c4f45855a786861e26a5fd4a82",
       "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171104T090037",
       "HandoffPriority": ""
@@ -96,8 +96,8 @@
       ],
       "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
-      "HandoffFileCommit": "17a18c9136b12a28076714bd3ebd9a66b88ad710",
-      "HandoffDateTime": "2017-11-06T03:16:53.6125645Z",
+      "HandoffFileCommit": "1d06e0f81f336256a2c15e5f114251e0f8b4c112",
+      "HandoffDateTime": "2017-11-06T04:58:52.3657661Z",
       "HandoffXliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
       "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171104T090037",
       "HandoffPriority": "",
