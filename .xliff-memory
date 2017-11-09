@@ -41,6 +41,12 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test1\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
       "LocXliffCommit": "f872e9210e7bd99423cb6a7fafe4f8fe1e2cd58f"
+    },
+    "test\\Test11092017.md.929d7ebe8fd794022515464e84390fdb96a4e103.HT": {
+      "SourceFilename": "test\\Test11092017.md",
+      "XliffHash": "929d7ebe8fd794022515464e84390fdb96a4e103",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\0a15c5dd2a157768d0e264531e8331752bf2c460.63f57925c0eb4c44e4b0f2799a1dfee31795d2a4.xml"
     }
   }
 }
