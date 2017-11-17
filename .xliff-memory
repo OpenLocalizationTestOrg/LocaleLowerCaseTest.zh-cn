@@ -37,7 +37,7 @@
       "XliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
       "TranslationType": 1,
       "IsArchived": true,
-      "ArchivedDateTime": "2017-11-04T16:13:33.5671806Z",
+      "ArchivedDateTime": "2017-11-17T16:13:35.513926Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test1\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.zh-cn.xlf",
       "LocXliffCommit": "f872e9210e7bd99423cb6a7fafe4f8fe1e2cd58f"
@@ -46,18 +46,24 @@
       "SourceFilename": "test\\Test11092017.md",
       "XliffHash": "929d7ebe8fd794022515464e84390fdb96a4e103",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-17T16:13:35.513926Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\0a15c5dd2a157768d0e264531e8331752bf2c460.63f57925c0eb4c44e4b0f2799a1dfee31795d2a4.xml"
     },
     "test\\LocaleLowerCaseTest.md.56eee0b40658da5fffb5880db3add14735d9469b.HT": {
       "SourceFilename": "test\\LocaleLowerCaseTest.md",
       "XliffHash": "56eee0b40658da5fffb5880db3add14735d9469b",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-17T16:13:35.513926Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\db4fc618da24501b0eb2dc0a509d82d8b85b706d.519095f73069fefca1c1ef1b37d89334586c5c75.xml"
     },
     "test\\Test`2.md.2add3356bebb8548369df3fbc1bed972609dc083.HT": {
       "SourceFilename": "test\\Test`2.md",
       "XliffHash": "2add3356bebb8548369df3fbc1bed972609dc083",
       "TranslationType": 1,
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-11-17T16:13:35.513926Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\964d1280e55571b4feb034ea1447d38b00e07ca7.2cfc5d894c57115fb4d1f01a7e857dd0a2152180.xml"
     }
   }
