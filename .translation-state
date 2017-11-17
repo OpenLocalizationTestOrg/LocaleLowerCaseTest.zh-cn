@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "2ac47e1c76e6d51d0adc8071e29a81f1add186cc",
+  "LastProcessedCommit": "497ef533af1ce60eea206a466039a56b861e7cf2",
   "LastTranslatedCommit": "e7a61180bc6a4747fcf8ddfb33ff077862a069c1",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -127,6 +127,36 @@
       "HandoffFileCommit": "2ec2acf7c9250beb1f2bde04405350a331ebea5a",
       "HandoffDateTime": "2017-11-09T09:12:56.2631478Z",
       "HandoffXliffHash": "929d7ebe8fd794022515464e84390fdb96a4e103",
+      "HandoffPriority": ""
+    },
+    "db4fc618da24501b0eb2dc0a509d82d8b85b706d": {
+      "FileHash": "db4fc618da24501b0eb2dc0a509d82d8b85b706d",
+      "SourceFileCommit": "497ef533af1ce60eea206a466039a56b861e7cf2",
+      "SourceFilePath": "test\\LocaleLowerCaseTest.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\LocaleLowerCaseTest.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.zh-cn.xlf",
+      "HandoffFileCommit": "dd253f6a707b5d69a820b197e29b921124d32e69",
+      "HandoffDateTime": "2017-11-17T11:57:14.6999436Z",
+      "HandoffXliffHash": "56eee0b40658da5fffb5880db3add14735d9469b",
+      "HandoffPriority": ""
+    },
+    "964d1280e55571b4feb034ea1447d38b00e07ca7": {
+      "FileHash": "964d1280e55571b4feb034ea1447d38b00e07ca7",
+      "SourceFileCommit": "497ef533af1ce60eea206a466039a56b861e7cf2",
+      "SourceFilePath": "test\\Test`2.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Test`2.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf",
+      "HandoffFileCommit": "dd253f6a707b5d69a820b197e29b921124d32e69",
+      "HandoffDateTime": "2017-11-17T11:57:14.6999436Z",
+      "HandoffXliffHash": "2add3356bebb8548369df3fbc1bed972609dc083",
       "HandoffPriority": ""
     }
   }

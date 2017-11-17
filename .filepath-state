@@ -1,9 +1,15 @@
 {
+  "db4fc618da24501b0eb2dc0a509d82d8b85b706d": [
+    "test\\LocaleLowerCaseTest.md"
+  ],
   "7001907bc5caf0f276805ecbd626792702c563ea": [
     "test\\LocaleLowerCaseTest.md"
   ],
   "ac4b78a288421be8dc454b4e866298b0957713a0": [
     "test\\Test`1.md"
+  ],
+  "964d1280e55571b4feb034ea1447d38b00e07ca7": [
+    "test\\Test`2.md"
   ],
   "6931ee99a82b8c1a48bd8ce05f038ba5de11a964": [
     "test\\Test`2.md"
