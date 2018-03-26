@@ -65,6 +65,12 @@
       "IsArchived": true,
       "ArchivedDateTime": "2017-11-17T16:13:35.513926Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\964d1280e55571b4feb034ea1447d38b00e07ca7.2cfc5d894c57115fb4d1f01a7e857dd0a2152180.xml"
+    },
+    "test\\SunnyTesting.md.e1c2e53542f5030fc4ec79d5c3f9140060bb43df.HT": {
+      "SourceFilename": "test\\SunnyTesting.md",
+      "XliffHash": "e1c2e53542f5030fc4ec79d5c3f9140060bb43df",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\f22453d91d1f03cc612f1469ab08c6291cb83779.40e0cccfcbcea0acac52bdbce268d87addcd97ba.xml"
     }
   }
 }

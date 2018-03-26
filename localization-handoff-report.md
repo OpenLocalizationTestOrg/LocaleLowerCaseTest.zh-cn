@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\SunnyTesting.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/4cc997e4fe4576e07bebbcfdc69c6ad3ae29f80f/test/SunnyTesting.md) | HandedOffSuccess | [Details](#f22453d91d1f03cc612f1469ab08c6291cb837793)
 
 ## Item Details
+##### <a name='f22453d91d1f03cc612f1469ab08c6291cb837793'></a> Source: [test\SunnyTesting.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/4cc997e4fe4576e07bebbcfdc69c6ad3ae29f80f/test/SunnyTesting.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [SunnyTesting.712de0b14af0fbf8dfca5a723b1259075694d133.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/35b40000171a05a5a6663d951619ed4aa9b8fc81/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/SunnyTesting.712de0b14af0fbf8dfca5a723b1259075694d133.zh-cn.xlf)
+* Handoff Datetime: 2018-03-26 02:53:13
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

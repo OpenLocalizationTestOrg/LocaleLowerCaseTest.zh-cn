@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f4af057b44ce4e573d3bec05dfb47eb42a1a591d",
+  "LastProcessedCommit": "4cc997e4fe4576e07bebbcfdc69c6ad3ae29f80f",
   "LastTranslatedCommit": "e7a61180bc6a4747fcf8ddfb33ff077862a069c1",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -173,6 +173,21 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.zh-cn.xlf",
       "ArchiveFileCommit": "cdc2498d3a902622214d923382d8630185539ebe",
       "ArchiveFileDateTime": "2017-11-17T16:13:35.513926Z"
+    },
+    "f22453d91d1f03cc612f1469ab08c6291cb83779": {
+      "FileHash": "f22453d91d1f03cc612f1469ab08c6291cb83779",
+      "SourceFileCommit": "4cc997e4fe4576e07bebbcfdc69c6ad3ae29f80f",
+      "SourceFilePath": "test\\SunnyTesting.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\SunnyTesting.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\SunnyTesting.712de0b14af0fbf8dfca5a723b1259075694d133.zh-cn.xlf",
+      "HandoffFileCommit": "35b40000171a05a5a6663d951619ed4aa9b8fc81",
+      "HandoffDateTime": "2018-03-26T02:53:13.7160853Z",
+      "HandoffXliffHash": "e1c2e53542f5030fc4ec79d5c3f9140060bb43df",
+      "HandoffPriority": ""
     }
   }
 }
