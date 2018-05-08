@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/89e867cc2d3eeaa7f9e84ef73ce18d34475ea448/test/Task1253037Test.md) | HandedOffSuccess | [Details](#8cd51748b1a5d5ce3c6862dcd82b23ff8ffa6c204)
+ [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/2f6d625110484e26e137a838e4a98e7a8070ce33/test/Task1253037Test.md) | HandedOffSuccess | [Details](#e59a73c84510420622ef2203baacb35f03f034d34)
 
 ## Item Details
-##### <a name='8cd51748b1a5d5ce3c6862dcd82b23ff8ffa6c204'></a> Source: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/89e867cc2d3eeaa7f9e84ef73ce18d34475ea448/test/Task1253037Test.md)
+##### <a name='e59a73c84510420622ef2203baacb35f03f034d34'></a> Source: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/2f6d625110484e26e137a838e4a98e7a8070ce33/test/Task1253037Test.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/31e2d42abb3a7b4027e1cc6b20387ce8530f0f53/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.zh-cn.xlf)
-* Handoff Datetime: 2018-05-08 05:17:23
+* Handoff File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/fd9235698d2777cfca1c35d8131df4b355ef3d24/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.zh-cn/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.zh-cn.xlf)
+* Handoff Datetime: 2018-05-08 08:36:09
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 

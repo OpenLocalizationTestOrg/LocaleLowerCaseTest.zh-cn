@@ -77,6 +77,12 @@
       "XliffHash": "83c825301c7a072c426aa58858b62d3e309af650",
       "TranslationType": 1,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\8cd51748b1a5d5ce3c6862dcd82b23ff8ffa6c20.b783b6a8cdc686840265af12cb2b9d72fe9e8779.xml"
+    },
+    "test\\Task1253037Test.md.331eb724c7f83c72c665721e21e40c79ee3a7c2a.HT": {
+      "SourceFilename": "test\\Task1253037Test.md",
+      "XliffHash": "331eb724c7f83c72c665721e21e40c79ee3a7c2a",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\e59a73c84510420622ef2203baacb35f03f034d3.d5bbe0db53e1afc856a10968b1b3c0a35f53284c.xml"
     }
   }
 }
