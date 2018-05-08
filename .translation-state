@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4cc997e4fe4576e07bebbcfdc69c6ad3ae29f80f",
+  "LastProcessedCommit": "89e867cc2d3eeaa7f9e84ef73ce18d34475ea448",
   "LastTranslatedCommit": "e7a61180bc6a4747fcf8ddfb33ff077862a069c1",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -187,6 +187,22 @@
       "HandoffFileCommit": "35b40000171a05a5a6663d951619ed4aa9b8fc81",
       "HandoffDateTime": "2018-03-26T02:53:13.7160853Z",
       "HandoffXliffHash": "e1c2e53542f5030fc4ec79d5c3f9140060bb43df",
+      "HandoffPriority": ""
+    },
+    "8cd51748b1a5d5ce3c6862dcd82b23ff8ffa6c20": {
+      "FileHash": "8cd51748b1a5d5ce3c6862dcd82b23ff8ffa6c20",
+      "SourceFileCommit": "89e867cc2d3eeaa7f9e84ef73ce18d34475ea448",
+      "SourceFilePath": "test\\Task1253037Test.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Task1253037Test.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.zh-cn.xlf",
+      "HandoffFileCommit": "31e2d42abb3a7b4027e1cc6b20387ce8530f0f53",
+      "HandoffDateTime": "2018-05-08T05:17:23.3989692Z",
+      "HandoffXliffHash": "83c825301c7a072c426aa58858b62d3e309af650",
       "HandoffPriority": ""
     }
   }
